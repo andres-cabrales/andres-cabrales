@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **cabrales.andres@gmail.com**
 
-- 📄 Know about my experiences [Data scientist in transition with over 18 years in IT, combining data analysis, strategic management, and leadership. Expert in process optimization, cybersecurity, and infrastructure, applying machine learning and business intelligence to drive innovation. Skills in full-stack development, data-driven decision-making, and change management.](Data scientist in transition with over 18 years in IT, combining data analysis, strategic management, and leadership. Expert in process optimization, cybersecurity, and infrastructure, applying machine learning and business intelligence to drive innovation. Skills in full-stack development, data-driven decision-making, and change management.)
+- 📄 Know about my experiences Data scientist in transition with over 18 years in IT, combining data analysis, strategic management, and leadership. Expert in process optimization, cybersecurity, and infrastructure, applying machine learning and business intelligence to drive innovation. Skills in full-stack development, data-driven decision-making, and change management. Data scientist in transition with over 18 years in IT, combining data analysis, strategic management, and leadership. Expert in process optimization, cybersecurity, and infrastructure, applying machine learning and business intelligence to drive innovation. Skills in full-stack development, data-driven decision-making, and change management.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
